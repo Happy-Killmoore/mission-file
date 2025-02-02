@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "enabled": 1,
+  "displayOnMap": 1,
+  "notificationTitle": "#lb_ag_no_build_title",
+  "notificationMessage": "#lb_ag_no_build_here",
+  "ignoreItems": [
+    "LandMineTrap",
+    "BearTrap",
+    "Fireplace"
+  ],
+  "circleColorR": 255,
+  "circleColorG": 100,
+  "circleColorB": 50,
+  "zones": [
+    {
+      "name": "Rasman Airbase",
+      "x": 5739.69677734375,
+      "y": 11345.3095703125,
+      "r": 1000
+    },
+    {
+      "name": "Garmsar",
+      "x": 10704.0859375,
+      "y": 6384.447265625,
+      "r": 400
+    },
+    {
+      "name": "Al Falludiyah",
+      "x": 1629.5172119140625,
+      "y": 3663.9677734375,
+      "r": 400
+    },
+    {
+      "name": "Nagara",
+      "x": 3088.230224609375,
+      "y": 9924.1953125,
+      "r": 400
+    },
+    {
+      "name": "Military Zone",
+      "x": 5204.9619140625,
+      "y": 5938.15087890625,
+      "r": 300
+    },
+    {
+      "name": "Military Zone",
+      "x": 4158.0439453125,
+      "y": 6732.48681640625,
+      "r": 300
+    },
+    {
+      "name": "Military Zone",
+      "x": 2630.013916015625,
+      "y": 5088.5322265625,
+      "r": 300
+    },
+    {
+      "name": "Military Zone",
+      "x": 11262.4912109375,
+      "y": 9110.337890625,
+      "r": 300
+    },
+    {
+      "name": "",
+      "x": 8078.99267578125,
+      "y": 1836.76220703125,
+      "r": 500
+    }
+  ]
+}
